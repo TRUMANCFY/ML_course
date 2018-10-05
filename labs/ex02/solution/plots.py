@@ -78,3 +78,4 @@ def gradient_descent_visualization(
     ax2.plot(pred_x, pred_y, 'r')
 
     return fig
+
